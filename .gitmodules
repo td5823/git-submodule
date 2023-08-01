@@ -1,0 +1,3 @@
+[submodule "packages/merp"]
+	path = packages/merp
+	url = https://gitee.com/tianzhengdong/merp.git
